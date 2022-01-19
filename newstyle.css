@@ -1,0 +1,68 @@
+body{background-color: rgb(102, 135, 205);}
+
+#Headings{
+  text-align: center;
+  color: black;
+}
+
+#inputDiv{
+  color: black;
+  text-align: center;
+  align-content: center;
+}
+
+#container{
+  width: 100%;
+  margin: auto;
+}
+
+#athleteDiv{
+  width: 50%;
+  float: left;
+}
+
+#orderDiv{
+  width: 50%;
+  float: left;
+}
+
+#athleteList{
+  float: right;
+  margin-right: 5%;
+}
+
+#orderList{
+  float: left;
+  margin-left: 20px;
+}
+
+#athleteHead{
+  float: right;
+  margin-right: 10%;
+  margin-left: 55%;
+  margin-bottom: 1.4%;
+}
+
+#orderHead{
+    margin-left: 20px;
+    margin-bottom: 15%;
+    font-size: 24px;
+  }
+
+table.inputTable{
+    border: 2px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.inputTable, table.inputTable th, table.inputTable td{
+    border: 2px solid black;
+    padding: 4px 4px;
+    border-collapse: collapse;
+}
+.textInputs{
+    width: 80%;
+}
+.selectInputs{
+    width: 80%;
+}
